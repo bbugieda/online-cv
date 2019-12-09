@@ -24,26 +24,6 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: English
-        level: Native
-
-      - idiom: Spanish
-        level: Intermediate
-
-      - idiom: 
-        level: 
-
-    interests:
-      - item: 
-        link:
-
-      - item: 
-        link:
-
-      - item: 
-        link:
-
 career-profile:
     title: Career Profile
     summary: |
@@ -69,55 +49,28 @@ education:
           - Operating Systems
           - Advanced Web Technologies
           - Logic & Programming
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Technology Intern
+      time: June 2019 - August 2019
+      company: M&T Bank, Wilmington, DE
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Wrote new APIs for existing M&T libraries to handle more actions from users on webpages.
+          - Automated the testing of new APIs using Microsoft Visual Studio and the .NET Framework and packaged a NuGet.
+          - Modified an internal testing library using the Telerik Testing Framework to allow non-technical business users the ability to author their own automated tests in Microsoft Excel.
+          - Installed the Test Results Analyzer plug-in on Jenkins to visually see the pass/failure rate of automated tests using Telerik.
+    - role: Resident Assistant
+      time: August 2018 - May 2019
+      company: University of Delaware, Newark, DE
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Supervised and attended to the needs of students residing in the residence hall.
+          - Handled administrative duties in the RA office, filed incident reports, and solved residents’ problems.
+          - Created a safe and healthy environment for the residents in compliance with Residence Life & Housing regulations.
+    - role: Receptionist and Dining Server
+      time: July 2018 - August 2018
+      company: Atria Senior Living - The Solana, Doylestown, PA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Answered phone calls and transferred lines to the appropriate office extension.
+          - Provided excellent standards of service to residents while managing multiple tables simultaneously.
 projects:
     title: Projects
     intro: >
