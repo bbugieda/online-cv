@@ -101,9 +101,6 @@ projects:
 publications:
     title: Awards
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
       - title: Eagle Scout Award - June 2017
         link: "https://www.theintell.com/news/20180418/warwick-eagle-scouts-project-benefits-pediatric-patients"
