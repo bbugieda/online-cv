@@ -7,19 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Brian Bugieda
+    tagline: University of Delaware
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: brian.bugieda@gmail.com
+    phone: 215 490 7734
+    website: bbugieda.github.io #do not add http://
+    linkedin: bbugieda
+    github: bbugieda
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -28,20 +28,20 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
       - idiom: Spanish
-        level: Professional
+        level: Intermediate
+
+      - idiom: 
+        level: 
 
     interests:
-      - item: Climbing
+      - item: 
         link:
 
-      - item: Snowboarding
+      - item: 
         link:
 
-      - item: Cooking
+      - item: 
         link:
 
 career-profile:
@@ -54,17 +54,21 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: B.S. in Computer Science
+      university: University of Delaware
+      time: 2017 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Working to complete a Bachelors of Science degree in Computer Science, 
+        with a concentration in Software Engineering at the University of Delaware.
+        Currently taking advanced coursework to broaden my knowledge in the field
+        and get beneficial hands-on experience. Taking coursework to complete a 
+        Cybersecurity Minor as well. The following are courses I have found to be
+        most interesting to me during my course of study:
+          - Software Engineering
+          - Automata Theory
+          - Operating Systems
+          - Advanced Web Technologies
+          - Logic & Programming
     - degree: BSc in Applied Mathematics
       university: Bristol University
       time: 2007 - 2011
