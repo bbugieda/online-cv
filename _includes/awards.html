@@ -6,26 +6,31 @@
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+      <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
     </span>
-    {{ awards.title }}
+    Awards
   </h2>
 
-  {% if awards.intro %}
-  <div class="intro">
-    {{ awards.intro | markdownify }}
-  </div><!--//intro-->
-  {% endif %}
-
-  {% for award in awards.papers %}
+  {% for award in awards %}
   <div class="item">
-    {% if award.link %}
-      <li><a href="{{ award.link }}">{{ award.title }}</a></li>
-    {% else %}
-      <li>{{ award.title }}</li>
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="award-title">{{ award.title }}</h3>
+        <div class="time">{{ award.time }}</div>
+      </div><!--//upper-row-->
+
+      <div class="organization">{{ award.organization }}</div>
+
+    </div><!--//meta-->
+
+    {% if award.details %}
+    <div class="details">
+      {{ experience.details | markdownify }}
+    </div><!--//details-->
     {% endif %}
-    <div class="award-authors">{{ award.authors }}</div>
-    <div class="award-conference">{{ award.conference }}</div>
+
   </div><!--//item-->
   {% endfor %}
 
