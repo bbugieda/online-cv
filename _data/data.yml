@@ -97,7 +97,6 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 awards:
     - title: Eagle Scout Award
       time: June 14, 2017 - Present
@@ -105,7 +104,6 @@ awards:
       details: |
           - Earned Eagle Scout upon successful completion of advancement requirements and an extensive service project.
           - Created artistic “Lily Pads” for pediatric patients at St. Christopher’s Hospital for Children (Philadelphia, PA) with the intent for the patients to sit and be wheeled around the hospital while connected to an IV.
-
 skills:
     title: Skills &amp; Proficiency
 
