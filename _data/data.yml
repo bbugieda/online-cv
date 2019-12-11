@@ -77,7 +77,7 @@ projects:
       Here are a few of of my most recent projects.
     assignments:
       - title: Asteroids
-        link: "http://cisc474.cis.udel.edu/cisc474/19f/p1/galaxy/"
+        link: "https://bbugieda.github.io/Asteroids-Game/"
         tagline: "Classic arcade game 'Asteroids' reimagined for the 21st century. Written in JavaScript using DOM Manipulation"
 
       - title: Music Player
