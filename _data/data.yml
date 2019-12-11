@@ -72,31 +72,17 @@ experiences:
           - Answered phone calls and transferred lines to the appropriate office extension.
           - Provided excellent standards of service to residents while managing multiple tables simultaneously.
 projects:
-    title: Projects
+    title: Featured Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here are a few of of my most recent projects.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Asteroids
+        link: "http://cisc474.cis.udel.edu/cisc474/19f/p1/galaxy/"
+        tagline: "Classic arcade game 'Asteroids' reimagined for the 21st century. Written in JavaScript using DOM Manipulation"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Music Player
+        link: "https://github.com/bbugieda/MusicPlayer-iOS"
+        tagline: "An iOS application which integrates with Apple's Music app to play, skip, and shuffle music from certain genres"
 awards:
     - awardName: Eagle Scout Award
       time: June 14, 2017 - Present
